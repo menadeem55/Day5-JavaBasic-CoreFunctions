@@ -25,7 +25,6 @@ public class HarmonicNumber {
 			result = result + (double) 1/ num;
 			System.out.println(result + " ");
 		}
-		scanner.close();
 
 	}
 

@@ -9,15 +9,15 @@ public class FlipCoin {
     	if (Math.random() < 0.5){   //To check value less than 0.5 or not
     		
     		//print the string Heads otherwise prints Tails
-        System.out.println("Heads");
-            }
+    			System.out.println("Heads");
+        }
     	
     	else {
-         System.out.println("Tails");
+    			System.out.println("Tails");
             }
     	
-    	//printing out percentage of turnout
-    	System.out.println("Percentage of turnout Coin is "+ num*100 +"%");
+    	//printing out percentage of turned
+    			System.out.println("Percentage of turnout Coin is "+ num*100 +"%");
      }
 
 
